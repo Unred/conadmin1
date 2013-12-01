@@ -36,7 +36,7 @@
 			<div class="small-12 columns module_cap">
 			<p><strong>New Module</strong><p>
 			</div>
-			<p> Testing Content! This will be another new module to put </p>
+			<p> Testing Content! This will be another new module to put information into.</p>
 			</div>
 		</div>
 	</div>
